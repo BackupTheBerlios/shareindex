@@ -1,0 +1,13 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <CompletionStatisticsManager />
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="E:\DEVEL\shareindex\src\service\ShareIndexService.cs" offset="169" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>
