@@ -1,0 +1,12 @@
+<project name = "shareindex - conf" default = "build" basedir = ".">
+	<target name = "build" description = "Shareindex configuration module build">
+		<csc target = "exe" output = "shconf.exe">
+			<sources>
+				<include name = "**/*.cs"/>
+			</sources>
+			<resources dynamicprefix="true" prefix="shareindex.conf">
+				<include name = "**/*.resx"/>
+			</resources>
+		</csc>
+	</target>
+</project> 

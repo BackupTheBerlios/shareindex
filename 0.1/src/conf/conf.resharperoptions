@@ -1,0 +1,375 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:string">
+      <Item value="EndsWith" priority="0" />
+      <Item value="StartsWith" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.BehaviorModels">
+      <Item value="ColumnHeader" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Exclamation" priority="0" />
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.UnhandledExceptionEventArgs">
+      <Item value="ExceptionObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetDirectoryName" priority="0" />
+      <Item value="GetFullPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain.CurrentDomain">
+      <Item value="UnhandledException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine.ShareIndexEngine">
+      <Item value="StartUp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ConfigurationGUI.ReportExceptionDlg.exceptionQueue">
+      <Item value="SyncRoot" priority="1" />
+      <Item value="Enqueue" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Deserialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SourceGrid2.Grid">
+      <Item value="Redim" priority="1" />
+      <Item value="AutoSizeView" priority="0" />
+      <Item value="AutoStretchColumnsToFitWidth" priority="0" />
+      <Item value="StretchColumnsToFitWidth" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceProcess.ServiceControllerStatus">
+      <Item value="Running" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="ForeColor" priority="0" />
+      <Item value="DrawMode" priority="0" />
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.DataModels">
+      <Item value="EditorNumericUpDown" priority="1" />
+      <Item value="EditorTextBoxButton" priority="2" />
+      <Item value="EditorUITypeEditor" priority="0" />
+      <Item value="EditorTextBox" priority="0" />
+      <Item value="IDataModel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine.EventLogWriter">
+      <Item value="CreateLog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="5" />
+      <Item value="Width" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Size" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control.ControlCollection">
+      <Item value="Add" priority="2" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceProcess.ServiceController">
+      <Item value="ServiceName" priority="0" />
+      <Item value="MachineName" priority="1" />
+      <Item value="Status" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:shareindex.conf.FileLogSettingsDlg">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceProcess.ServiceProcessInstaller">
+      <Item value="Account" priority="0" />
+      <Item value="AfterInstall" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="0" />
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SourceGrid2.DataModels.EditorNumericUpDown">
+      <Item value="MinimumValue" priority="0" />
+      <Item value="MaximumValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="ServiceProcess" priority="1" />
+      <Item value="Runtime" priority="1" />
+      <Item value="Collections" priority="0" />
+      <Item value="Xml" priority="9" />
+      <Item value="Windows" priority="1" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="Exception" priority="1" />
+      <Item value="Boolean" priority="2" />
+      <Item value="String" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="Cancel" priority="0" />
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TabDrawMode">
+      <Item value="OwnerDrawFixed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ThreadState" priority="0" />
+      <Item value="Start" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Black" priority="0" />
+      <Item value="White" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:shareindex.conf.ServiceControllerFrm">
+      <Item value="Close" priority="0" />
+      <Item value="Dispose" priority="1" />
+      <Item value="Show" priority="0" />
+      <Item value="CheckServiceStatus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2">
+      <Item value="DataModels" priority="0" />
+      <Item value="Grid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.VisualModels">
+      <Item value="FlatHeader" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO">
+      <Item value="File" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceProcess.ServiceInstaller">
+      <Item value="DisplayName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="Y" priority="1" />
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing">
+      <Item value="Color" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadExceptionEventHandler">
+      <Item value="RemoveAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="ToString" priority="0" />
+      <Item value="Close" priority="1" />
+      <Item value="LocalPath" priority="2" />
+      <Item value="Deserialize" priority="0" />
+      <Item value="ToCharArray" priority="1" />
+      <Item value="Serialize" priority="0" />
+      <Item value="Length" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FileDialog">
+      <Item value="Title" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="DefaultExt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.EventArgs">
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine.Configuration">
+      <Item value="ConfigurationManager" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine.EngineGlobals">
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Resources">
+      <Item value="ResXResourceReader" priority="0" />
+      <Item value="ResourceManager" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="GetType" priority="0" />
+      <Item value="StackTrace" priority="1" />
+      <Item value="TargetSite" priority="0" />
+      <Item value="Message" priority="5" />
+      <Item value="InnerException" priority="0" />
+      <Item value="Source" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="CheckFileExists" priority="0" />
+      <Item value="FileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SourceGrid2.DataModels.EditorTextBoxButton">
+      <Item value="AttachEditorControl" priority="0" />
+      <Item value="GetEditorTextBoxTypedButton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.Engine.Conf.ConfigurationManager">
+      <Item value="Configuration" priority="0" />
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime">
+      <Item value="Remoting" priority="0" />
+      <Item value="InteropServices" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ThreadExceptionEventArgs">
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading">
+      <Item value="ThreadExceptionEventHandler" priority="2" />
+      <Item value="ThreadExceptionEventArgs" priority="0" />
+      <Item value="Thread" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms">
+      <Item value="Design" priority="0" />
+      <Item value="FileDialog" priority="1" />
+      <Item value="Form" priority="0" />
+      <Item value="MessageBoxIcon" priority="0" />
+      <Item value="Application" priority="2" />
+      <Item value="LinkLabel" priority="0" />
+      <Item value="DialogResult" priority="1" />
+      <Item value="TabDrawMode" priority="0" />
+      <Item value="TextBox" priority="0" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="MessageBox" priority="2" />
+      <Item value="MessageBoxButtons" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Serialization">
+      <Item value="XmlRoot" priority="0" />
+      <Item value="XmlElement" priority="2" />
+      <Item value="XmlAttribute" priority="3" />
+      <Item value="XmlSerializer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.Container">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:object">
+      <Item value="GetType" priority="0" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:shareindex.conf.EvLogSettingsDlg">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml">
+      <Item value="Serialization" priority="9" />
+      <Item value="XmlReader" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine.Configuration.ConfigurationManager">
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.ScanEngine">
+      <Item value="ShareIndexEngine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.Cells">
+      <Item value="Virtual" priority="1" />
+      <Item value="Real" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox">
+      <Item value="SelectedValue" priority="0" />
+      <Item value="CheckOnClick" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows">
+      <Item value="Forms" priority="18" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SourceGrid2.BehaviorModels.ColumnHeader">
+      <Item value="EnableSort" priority="0" />
+      <Item value="CanReceiveFocus" priority="0" />
+      <Item value="IsSortEnable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.Engine.Conf">
+      <Item value="Options" priority="0" />
+      <Item value="ConfigurationManager" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel">
+      <Item value="Click" priority="0" />
+      <Item value="Dock" priority="0" />
+      <Item value="Text" priority="4" />
+      <Item value="Location" priority="0" />
+      <Item value="Visible" priority="3" />
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:shareindex.conf.ServiceStatusCheckFrm">
+      <Item value="RunCheck" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceProcess">
+      <Item value="ServiceController" priority="2" />
+      <Item value="ServiceControllerStatus" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ThreadException" priority="0" />
+      <Item value="Exit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:shareindex.conf.AboutDlg">
+      <Item value="Dispose" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MainMenu">
+      <Item value="GetMainMenu" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.Cells.Virtual">
+      <Item value="Header" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.Remoting">
+      <Item value="Services" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SourceGrid2.Cells.Real">
+      <Item value="Link" priority="1" />
+      <Item value="Cell" priority="7" />
+      <Item value="ColumnHeader" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Multiline" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="ScrollBars" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="ReadOnly" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ShareIndex.Engine">
+      <Item value="Conf" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\Configuration.cs" offset="1512" line="37" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\ShareIndexEngine.cs" offset="865" line="18" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\service\ProjectInstaller.cs" offset="1523" line="41" column="13" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\Exporter.cs" offset="0" line="7" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\Log.cs" offset="0" line="25" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\NetworkHost.cs" offset="0" line="71" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\ShareIndexConfForm.cs" offset="0" line="139" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\NetworkShareDiscoverer.cs" offset="0" line="124" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\service\ShareIndexService.cs" offset="0" line="42" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\ReportExceptionDlg.cs" offset="9786" line="258" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\NetworkShare.cs" offset="3361" line="115" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\ConfigurationReadException.cs" offset="42" line="231" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\Ping.cs" offset="825" line="-1" column="-1" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\ShareIndexConf.resx" offset="0" line="0" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\ServiceControllerFrm.cs" offset="682" line="30" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\EvLogSettingsDlg.cs" offset="4910" line="11" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\AssemblyInfo.cs" offset="2416" line="0" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\AboutDlg.cs" offset="4584" line="106" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\conf\FileLogSettingsDlg.cs" offset="6465" line="0" column="0" />
+      <TrackedFile location="E:\DEVEL\shareindex\src\engine\AssemblyInfo.cs" offset="2416" line="-1" column="-1" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>
